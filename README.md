@@ -16,7 +16,7 @@ I got some of my projects on here and my favorit is Cops&Theives.
 ## 🛠 Skills & Experience
 - **Education:** .NET Developer student at Campus Nyköping
 - **Background:** Finance, Sales, and Healthcare (versatile & adaptable)
-- **Specialty:** Building AI Agents and predictive maintenance solutions
+- **Experience:** Building AI Agents and predictive maintenance solutions
 
 Fun facts: 
 - I have a Australien rainbowlorikeet (parrot) to keep me company while i work!
