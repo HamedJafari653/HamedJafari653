@@ -8,6 +8,16 @@ I try to build as many projects for fun and leaning beside my studies, currently
 
 I got some of my projects on here and my favorit is Cops&Theives.
 
+## 🏆 Achievements
+- **Overall Winner** | GenAI Hackathon 2025 (Microsoft & Volvo)
+- **Best Tech Wizardry Award** | GenAI Hackathon 2025
+- **Class Representative** | Campus Nyköping
+
+## 🛠 Skills & Experience
+- **Education:** .NET Developer student at Campus Nyköping
+- **Background:** Finance, Sales, and Healthcare (versatile & adaptable)
+- **Specialty:** Building AI Agents and predictive maintenance solutions
+
 Fun facts: 
 - I have a Australien rainbowlorikeet (parrot) to keep me company while i work!
 - Like traveling
