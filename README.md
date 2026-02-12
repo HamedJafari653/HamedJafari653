@@ -4,7 +4,7 @@ Im Hamed, a .Net developer student based in Sweden Eskilstuna.
 
 My main goal is to become a full stack dev but currently my tech stack is C#.
 
-I try to build as many projects for fun and leaning beside my studies, currently im working on resource management system for residential facilities.
+I build project both for fun and learning beside my studies, currently im working on resource management system for residential facilities.
 
 I got some of my projects on here and my favorit is Cops&Theives.
 
